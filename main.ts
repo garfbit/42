@@ -5,5 +5,5 @@ let I = Ni + 1
 while (I < Nf) {
     C += 1
     I += 1
-    basic.showNumber(C)
 }
+basic.showNumber(C)
